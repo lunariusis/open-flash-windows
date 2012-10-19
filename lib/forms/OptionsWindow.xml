@@ -1,0 +1,58 @@
+<data>
+    <layer name="fon" x="209" y="24" w="378" h="449" tp="L"/>
+    <layer name="button_set_3" x="406" y="340" w="127" h="54" tp="LS">
+        <layer name="b_1_fon" x="0" y="0" w="127" h="54" tp="LIS"/>
+        <layer name="b_1_down" x="12" y="7" w="103" h="38" tp="LIS"/>
+        <layer name="b_1_over" x="12" y="7" w="103" h="38" tp="LIS"/>
+        <layer name="b_1_up" x="12" y="7" w="103" h="38" tp="LIS"/>
+    </layer>
+    <layer name="button_set_2" x="400" y="398" w="141" h="49" tp="LS">
+        <layer name="b_2_fon" x="0" y="0" w="141" h="49" tp="LIS"/>
+        <layer name="b_2_down" x="14" y="9" w="114" h="27" tp="LIS"/>
+        <layer name="b_2_over" x="14" y="9" w="114" h="27" tp="LIS"/>
+        <layer name="b_2_up" x="14" y="9" w="114" h="27" tp="LIS"/>
+    </layer>
+    <layer name="button_set_1" x="254" y="398" w="141" h="49" tp="LS">
+        <layer name="b_2_fon" x="0" y="0" w="141" h="49" tp="LIS"/>
+        <layer name="b_2_down" x="14" y="9" w="114" h="27" tp="LIS"/>
+        <layer name="b_2_over" x="14" y="9" w="114" h="27" tp="LIS"/>
+        <layer name="b_2_up" x="14" y="9" w="114" h="27" tp="LIS"/>
+    </layer>
+    <layer name="slider_set_ambient_sounds" x="388" y="219" w="144" h="36" tp="LS">
+        <layer name="slider_fon" x="0" y="0" w="144" h="35" tp="LIS"/>
+        <layer name="slider_line" x="7" y="4" w="133" h="24" tp="LIS"/>
+        <layer name="slider_button" x="110" y="0" w="34" h="36" tp="LIS"/>
+    </layer>
+    <layer name="slider_set_music" x="388" y="179" w="144" h="36" tp="LS">
+        <layer name="slider_fon" x="0" y="0" w="144" h="35" tp="LIS"/>
+        <layer name="slider_line" x="7" y="4" w="133" h="24" tp="LIS"/>
+        <layer name="slider_button" x="110" y="0" w="34" h="36" tp="LIS"/>
+    </layer>
+    <layer name="slider_set_sound_effects" x="388" y="139" w="144" h="36" tp="LS">
+        <layer name="slider_fon" x="0" y="0" w="144" h="35" tp="LIS"/>
+        <layer name="slider_line" x="7" y="4" w="133" h="24" tp="LIS"/>
+        <layer name="slider_button" x="110" y="0" w="34" h="36" tp="LIS"/>
+    </layer>
+    <layer name="radio_set_custom_cursor" x="263" y="316" w="41" h="37" tp="LS">
+        <layer name="radio_fon" x="0" y="0" w="36" h="36" tp="LIS"/>
+        <layer name="radio_off" x="7" y="7" w="23" h="23" tp="LIS"/>
+        <layer name="radio_on" x="3" y="0" w="38" h="37" tp="LIS"/>
+    </layer>
+    <layer name="radio_set_show_hints" x="406" y="270" w="41" h="37" tp="LS">
+        <layer name="radio_fon" x="0" y="0" w="36" h="36" tp="LIS"/>
+        <layer name="radio_off" x="7" y="7" w="23" h="23" tp="LIS"/>
+        <layer name="radio_on" x="3" y="0" w="38" h="37" tp="LIS"/>
+    </layer>
+    <layer name="radio_set_full_screen" x="263" y="270" w="41" h="37" tp="LS">
+        <layer name="radio_fon" x="0" y="0" w="36" h="36" tp="LIS"/>
+        <layer name="radio_off" x="7" y="7" w="23" h="23" tp="LIS"/>
+        <layer name="radio_on" x="3" y="0" w="38" h="37" tp="LIS"/>
+    </layer>
+    <layer name="textmarker_custom_cursor" x="303" y="318" w="103" h="29" tp="L"/>
+    <layer name="textmarker_show_hints" x="445" y="274" w="103" h="29" tp="L"/>
+    <layer name="textmarker_full_screen" x="302" y="274" w="103" h="29" tp="L"/>
+    <layer name="textmarker_ambient_sounds" x="253" y="219" w="135" h="29" tp="L"/>
+    <layer name="textmarker_music" x="253" y="182" w="135" h="29" tp="L"/>
+    <layer name="textmarker_sound_effects" x="253" y="142" w="135" h="29" tp="L"/>
+    <layer name="textmarker_options_header" x="333" y="62" w="132" h="44" tp="L"/>
+</data>

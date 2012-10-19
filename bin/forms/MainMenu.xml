@@ -1,0 +1,59 @@
+<data>
+    <layer name="menu_fon" x="553" y="0" w="247" h="600" tp="L"/>
+    <layer name="border_down" x="0" y="580" w="800" h="20" tp="L"/>
+    <layer name="border_up" x="0" y="0" w="800" h="34" tp="L"/>
+    <layer name="border_right_shadow" x="743" y="10" w="57" h="571" tp="L"/>
+    <layer name="border_right" x="757" y="10" w="43" h="572" tp="L"/>
+    <layer name="border_center_shadow" x="554" y="10" w="55" h="571" tp="L"/>
+    <layer name="border_center" x="514" y="10" w="80" h="572" tp="L"/>
+    <layer name="border_left" x="0" y="12" w="44" h="570" tp="L"/>
+    <layer name="decor_up_center" x="220" y="0" w="148" h="17" tp="L"/>
+    <layer name="button_set_8" x="585" y="546" w="181" h="54" tp="LS">
+        <layer name="b_8_fon" x="0" y="0" w="181" h="54" tp="LIS"/>
+        <layer name="b_7_down" x="47" y="11" w="88" h="38" tp="LIS"/>
+        <layer name="b_7_over" x="47" y="11" w="88" h="38" tp="LIS"/>
+        <layer name="b_7_up" x="47" y="11" w="88" h="38" tp="LIS"/>
+    </layer>
+    <layer name="button_set_7" x="128" y="548" w="321" h="52" tp="LS">
+        <layer name="b_7_fon" x="0" y="0" w="321" h="52" tp="LIS"/>
+        <layer name="b_7_down" x="117" y="9" w="87" h="38" tp="LIS"/>
+        <layer name="b_7_over" x="117" y="9" w="87" h="38" tp="LIS"/>
+        <layer name="b_7_up" x="117" y="9" w="87" h="38" tp="LIS"/>
+    </layer>
+    <layer name="button_set_6" x="586" y="440" w="183" h="58" tp="LS">
+        <layer name="b_2_fon" x="0" y="0" w="183" h="58" tp="LIS"/>
+        <layer name="b_2_down" x="18" y="14" w="147" h="36" tp="LIS"/>
+        <layer name="b_2_over" x="18" y="14" w="147" h="36" tp="LIS"/>
+        <layer name="b_2_up" x="18" y="14" w="147" h="36" tp="LIS"/>
+    </layer>
+    <layer name="button_set_5" x="586" y="384" w="183" h="59" tp="LS">
+        <layer name="b_2_fon" x="0" y="0" w="183" h="59" tp="LIS"/>
+        <layer name="b_2_down" x="18" y="14" w="147" h="37" tp="LIS"/>
+        <layer name="b_2_over" x="18" y="14" w="147" h="37" tp="LIS"/>
+        <layer name="b_2_up" x="18" y="14" w="147" h="37" tp="LIS"/>
+    </layer>
+    <layer name="button_set_4" x="586" y="329" w="183" h="59" tp="LS">
+        <layer name="b_2_fon" x="0" y="0" w="183" h="59" tp="LIS"/>
+        <layer name="b_2_down" x="18" y="14" w="147" h="37" tp="LIS"/>
+        <layer name="b_2_over" x="18" y="14" w="147" h="37" tp="LIS"/>
+        <layer name="b_2_up" x="18" y="14" w="147" h="37" tp="LIS"/>
+    </layer>
+    <layer name="button_set_3" x="586" y="274" w="183" h="59" tp="LS">
+        <layer name="b_2_fon" x="0" y="0" w="183" h="59" tp="LIS"/>
+        <layer name="b_2_down" x="18" y="14" w="147" h="36" tp="LIS"/>
+        <layer name="b_2_over" x="18" y="14" w="147" h="36" tp="LIS"/>
+        <layer name="b_2_up" x="18" y="14" w="147" h="36" tp="LIS"/>
+    </layer>
+    <layer name="button_set_2" x="585" y="219" w="183" h="59" tp="LS">
+        <layer name="b_2_fon" x="0" y="0" w="183" h="59" tp="LIS"/>
+        <layer name="b_2_down" x="18" y="14" w="148" h="36" tp="LIS"/>
+        <layer name="b_2_over" x="18" y="14" w="148" h="36" tp="LIS"/>
+        <layer name="b_2_up" x="18" y="14" w="148" h="36" tp="LIS"/>
+    </layer>
+    <layer name="button_set_1" x="585" y="0" w="182" h="205" tp="LS">
+        <layer name="b_1_fon" x="0" y="0" w="182" h="205" tp="LIS"/>
+        <layer name="b_1_down" x="26" y="61" w="125" h="126" tp="LIS"/>
+        <layer name="b_1_over" x="27" y="61" w="124" h="126" tp="LIS"/>
+        <layer name="b_1_up" x="27" y="61" w="124" h="126" tp="LIS"/>
+    </layer>
+</data>
